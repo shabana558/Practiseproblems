@@ -11,6 +11,7 @@ namespace Practiseproblems
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome");
+            Console.WriteLine("hello");
             Console.ReadLine();
         }
     }
